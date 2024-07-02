@@ -11,7 +11,7 @@ the songs are practically earrape play at your own risk :sob:
   
 thats it LMAO :sob::pray:
 
-![](https://imgur.com/a/kaCmD4j.png)
+![](https://github.com/lucydotjson/XALA-LEGACY-SOURCE/blob/d31671b54720e7468d6421ff63630c47f7280040/lordsex.png)
 
 
 # Friday Night Funkin' - Psych Engine
