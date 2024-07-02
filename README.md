@@ -6,8 +6,8 @@ take a look at how the past Vs Xalamus looked like! Dont mention the name rencor
 the songs are practically earrape play at your own risk :sob:
 
 ## Xala Coding Team:
-* lucydotjson - made the entire LEGACY build in 2 days.
-* MrPolo - upcoming coder for DEMO he's a swag guy ngl.
+* lucydotjson - made the entire LEGACY build in 2 days, and Lead Coder of the project.
+* MrPolo - upcoming coder for DEMO and V1 he's a swag guy ngl.
   
 thats it LMAO :sob::pray:
 
