@@ -11,7 +11,7 @@ the songs are practically earrape play at your own risk :sob:
   
 thats it LMAO :sob::pray:
 
-![]([https://imgur.com/a/kaCmD4j.png)
+![](https://imgur.com/a/kaCmD4j.png)
 
 
 # Friday Night Funkin' - Psych Engine
