@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gayshitimeantplay.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="playButton0000" x="0" y="0" width="332" height="136"/>
+	<SubTexture name="playButtonSelect0000" x="0" y="136" width="333" height="136"/>
+</TextureAtlas>

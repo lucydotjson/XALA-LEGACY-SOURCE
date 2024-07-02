@@ -1,0 +1,51 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			
+			"devils-island",
+			"xalamussy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"silent-panic",
+			"shamehog",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"superstition",
+			"soylent",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
